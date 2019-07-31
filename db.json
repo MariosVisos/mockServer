@@ -3,21 +3,21 @@
         "guid":"83e4965798c64e9aa4337b965bcf29d3",
         "title":"BIM Project 1"
     },
-    groups: [
+    "groups": [
         {
-            guid: group1Guid,
-            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
-            title: "Building 1"
+            "guid": "aea9ad0bb79541dbaf77b91e12900459",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "Building 1"
         },
         {
-            guid: group2Guid,
-            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
-            title: "House 1"
+            "guid": "352106829f664841a349cca43b9ea6e8",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "House 1"
         },
         {
-            guid: fakeProjectGuid,
-            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
-            title: "BIM Project 1"
+            "guid": "19ad72b26b8a4a248015514249ad2b33",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "BIM Project 1"
         }
     ]
 }
