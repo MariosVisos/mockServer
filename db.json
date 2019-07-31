@@ -1,4 +1,6 @@
 {
-    "project":
-        {"guid":"83e4965798c64e9aa4337b965bcf29d3","title":"BIM Project 1"}
+    "project": {
+        "guid":"83e4965798c64e9aa4337b965bcf29d3",
+        "title":"BIM Project 1"
+    }
 }
