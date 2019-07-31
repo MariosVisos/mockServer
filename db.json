@@ -2,5 +2,22 @@
     "project": {
         "guid":"83e4965798c64e9aa4337b965bcf29d3",
         "title":"BIM Project 1"
-    }
+    },
+    groups: [
+        {
+            guid: group1Guid,
+            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
+            title: "Building 1"
+        },
+        {
+            guid: group2Guid,
+            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
+            title: "House 1"
+        },
+        {
+            guid: fakeProjectGuid,
+            projectGuid: "83e4965798c64e9aa4337b965bcf29d3",
+            title: "BIM Project 1"
+        }
+    ]
 }
