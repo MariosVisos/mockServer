@@ -22,19 +22,19 @@
     ],
     "aea9ad0bb79541dbaf77b91e12900459": [
         {
-            "guid": "c424e1b4-1ea8-4076-a571-6ac679f784aa",
+            "guid": "c424e1b41ea84076a5716ac679f784aa",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "groupGuids": ["aea9ad0bb79541dbaf77b91e12900459"],
             "title": "1st floor"
         },
         {
-            "guid": "15cd591c-eb66-400a-ab94-006af1def0cf",
+            "guid": "15cd591ceb66400aab94006af1def0cf",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "groupGuids": ["aea9ad0bb79541dbaf77b91e12900459"],
             "title": "2nd floor"
         },
         {
-            "guid": "59c9af70-84bc-45c1-9cef-f6abaa218726",
+            "guid": "59c9af7084bc45c19ceff6abaa218726",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "groupGuids": ["aea9ad0bb79541dbaf77b91e12900459"],
             "title": "Terrace"
@@ -42,7 +42,7 @@
     ],
     "352106829f664841a349cca43b9ea6e8": [
         {
-            "guid": "ccf530c4-b6c8-4c84-9a48-7f9f62987d76",
+            "guid": "ccf530c4b6c84c849a487f9f62987d76",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "groupGuids": ["352106829f664841a349cca43b9ea6e8"],
             "title": "Ground floor"
@@ -50,7 +50,7 @@
     ],
     "83e4965798c64e9aa4337b965bcf29d3": [
         {
-            "guid": "c2463827-5fed-43db-a7b3-23d9eb97af19",
+            "guid": "c24638275fed43dba7b323d9eb97af19",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "title": "Garage"
         }
