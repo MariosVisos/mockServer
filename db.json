@@ -18,6 +18,36 @@
             "guid": "83e4965798c64e9aa4337b965bcf29d3",
             "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
             "title": "BIM Project 1"
+        },
+        {
+            "guid": "aea9ad0bb79541dbaf77b91e1290045m",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "House 3"
+        },
+        {
+            "guid": "352106829f664841a349cca43b9ea6em",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "House 4"
+        },
+        {
+            "guid": "83e4965798c64e9aa4337b965bcf29dm",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "Building 2"
+        },
+        {
+            "guid": "aea9ad0bb79541dbaf77b91e1290045m",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "Building 3"
+        },
+        {
+            "guid": "352106829f664841a349cca43b9ea6em",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "House 4"
+        },
+        {
+            "guid": "83e4965798c64e9aa4337b965bcf29dm",
+            "projectGuid": "83e4965798c64e9aa4337b965bcf29d3",
+            "title": "Building 6"
         }
     ],
     "aea9ad0bb79541dbaf77b91e12900459": [
